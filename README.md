@@ -11,3 +11,10 @@ How search similar documents from example:
 
 Record 1 and Record 2 is equals.
 Let's try to write an algorithm that will show that these two records are the same.
+
+## Algorithm
+
+### Normalize text
+### Convert string to vector
+### Calculate two vectors distance
+### Clustering
