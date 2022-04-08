@@ -5,7 +5,7 @@
 How search similar documents from example:
 | # | Name & Phone |
 | ------ | ------ |
-| 1 | _Mark_ +380 **99 123-45-67** |
+| 1 | _Mark_ +380 **991234567** |
 | 2 | Cris +380961665345 |
 | 3 | **991234567** _Mark_ |
 
